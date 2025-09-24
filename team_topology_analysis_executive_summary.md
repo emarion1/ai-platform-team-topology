@@ -82,12 +82,12 @@ Transform from 18 teams with coordination dependencies to **24 optimized teams**
 ### **Resource Allocation**
 
 #### **Change Management Team (12-18 months)**
-- **Transformation Lead** (1 FTE): Senior leader with organizational authority
-- **Team Topologies Coach** (1 FTE): Expert consultant for implementation
-- **Technical Architect** (0.5 FTE): System architecture alignment
-- **HR Business Partner** (0.5 FTE): People change management
-- **Communication Lead** (0.5 FTE): Stakeholder communication
-- **Metrics Analyst** (0.5 FTE): Success measurement and validation
+- **Transformation Lead**: Senior leader with organizational authority
+- **Team Topologies Coach**: Expert consultant for implementation
+- **Technical Architect**: System architecture alignment
+- **HR Business Partner**: People change management
+- **Communication Lead**: Stakeholder communication
+- **Metrics Analyst**: Success measurement and validation
 
 #### **Training and Development**
 - **Cross-training programs** for frontend/backend skill development
@@ -101,65 +101,27 @@ Transform from 18 teams with coordination dependencies to **24 optimized teams**
 - **Documentation and knowledge transfer** programs
 - **Communication and collaboration tools** for distributed teams
 
-### **Budget Estimate**
-
-| Category | Investment | Duration | Total |
-|----------|------------|----------|-------|
-| **Change Management Team** | $1.2M annually | 18 months | $1.8M |
-| **Training and Development** | $300K annually | 18 months | $450K |
-| **Operational Support** | $200K annually | 18 months | $300K |
-| **Tools and Infrastructure** | $150K annually | 18 months | $225K |
-| **Contingency (15%)** | - | - | $416K |
-| **Total Investment** | - | - | **$3.2M** |
-
-## Return on Investment
-
-### **Quantified Benefits (Annual)**
-
-#### **Productivity Gains**
-- **Reduced coordination overhead:** 50% reduction × 170-200 people × 20% time × $150K avg salary = **$2.6M-3.0M annually**
-- **Faster feature delivery:** 25% cycle time improvement × 40 features/year × $100K feature value = **$1.0M annually**
-- **Reduced rework:** 30% quality improvement × 15% rework rate × $2.5M development cost = **$113K annually**
-
-#### **Operational Efficiency**
-- **Reduced incident response time:** 40% improvement × 50 incidents/year × $20K avg cost = **$400K annually**
-- **Improved system reliability:** 99.9% to 99.95% uptime × $500K/hour downtime cost = **$220K annually**
-- **Reduced technical debt:** 20% reduction × $500K annual tech debt cost = **$100K annually**
-
-#### **Total Annual Benefits: $4.4M-4.8M**
-
-### **ROI Calculation**
-- **Investment:** $3.2M over 18 months
-- **Annual Benefits:** $4.4M-4.8M starting Year 2
-- **Payback Period:** 8-9 months after completion
-- **3-Year NPV:** $10.1M-11.1M (assuming 10% discount rate)
-- **ROI:** 315%-347% over 3 years
-
 ## Implementation Timeline
 
 ### **Phase 1: Critical Platform Teams (Months 1-3)**
 - **Objective:** Address teams in critical cognitive overload
 - **Scope:** Split 2 largest platform teams (DevOps & InfraOps, Foundations)
-- **Investment:** $600K
-- **Expected Benefits:** $800K annual productivity gains
+- **Expected Benefits:** Significant productivity gains through optimal team sizes
 
 ### **Phase 2: Model Services Domain (Months 4-9)**
 - **Objective:** Eliminate frontend/backend coordination in highest-demand domain
 - **Scope:** Combine 3 teams into full-stack structure
-- **Investment:** $1.2M
-- **Expected Benefits:** $1.8M annual productivity gains
+- **Expected Benefits:** Major productivity improvements through eliminated handoffs
 
 ### **Phase 3: Remaining Domains (Months 10-15)**
 - **Objective:** Complete full-stack transformation
 - **Scope:** Pipeline, Feature Store, and AI Transparency domains
-- **Investment:** $1.0M
-- **Expected Benefits:** $1.6M annual productivity gains
+- **Expected Benefits:** Substantial efficiency gains through autonomous teams
 
 ### **Phase 4: Optimization (Months 16-18)**
 - **Objective:** Fine-tune and add advanced capabilities
 - **Scope:** Performance optimization and new team additions
-- **Investment:** $400K
-- **Expected Benefits:** $200K annual efficiency gains
+- **Expected Benefits:** Additional efficiency improvements
 
 ## Risk Assessment
 
@@ -183,7 +145,7 @@ Transform from 18 teams with coordination dependencies to **24 optimized teams**
 ### **Risk Management Framework**
 - **Weekly risk assessment** and mitigation planning
 - **Escalation procedures** for critical issues
-- **Contingency budgets** (15% of total investment)
+- **Contingency planning** for scope and timeline adjustments
 - **Success criteria validation** at each phase gate
 
 ## Success Metrics and Governance
@@ -237,10 +199,10 @@ This transformation represents a strategic investment in organizational excellen
 
 ## Appendices
 
-### **Appendix A: Detailed Financial Model**
-- Complete ROI calculations with sensitivity analysis
-- Budget breakdown by phase and category
-- Cost-benefit analysis with multiple scenarios
+### **Appendix A: Resource Planning Model**
+- Detailed resource allocation by phase and category
+- Timeline and milestone planning
+- Risk assessment and mitigation strategies
 
 ### **Appendix B: Implementation Roadmap**
 - Detailed project plan with dependencies and milestones
