@@ -1,6 +1,6 @@
 # AI Platform Team Topology Analysis
 
-This repository contains a comprehensive Team Topologies analysis for the AI Platform Teams organization, including multiple approaches, implementation guidance, and executive documentation.
+This repository contains a comprehensive Team Topologies analysis for the AI Platform Teams organization, including multiple approaches, implementation guidance, and executive documentation. It is purely for consideration and is not intended as any kind of policy.
 
 ## Repository Contents
 
